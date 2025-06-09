@@ -1,8 +1,7 @@
 # Zirlyanne Araujo 👩‍💻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas — UniAteneu  
-📍 Caucaia - CE  
-📧 zirlyanne@email.com  
+📍 Caucaia - CE    
 🌐 github.com/zirly98
 
 ---
@@ -38,8 +37,7 @@ Conseguir meu primeiro estágio na área de tecnologia, contribuindo com entusia
 ---
 
 ## 📫 Contato
-
-- Email: zirlyanne@email.com  
+ 
 - GitHub: [github.com/zirly98](https://github.com/zirly98)
 
 ---
